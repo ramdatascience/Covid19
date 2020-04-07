@@ -10,4 +10,4 @@ Inference :
  COVID-19 stats with respect toItaly, Spain, UK and Singapore :
  
  
-Both Italy and Spain are experiencing the larger increase in COVID-19 positives in Europe. At the same time, UK is a unique case given that it's one of the most important countries in Europe but recently has left the European Union, which has create an effective barrier to human mobility from other countries. The fourth country we will study in this section is Singapore, since it's an asiatic island, is closer to China and its socio-economic conditions is different from the other three countries.    
+Both Italy and Spain are experiencing the larger increase in COVID-19 positives in Europe. At the same time, UK is a unique case given that it's one of the most important countries in Europe but recently has left the European Union, which has create an effective barrier to human mobility from other countries. In case of  Singapore, since it's an asiatic island and  is closer to China along with its different socio-economic conditions from the other three countries.    
