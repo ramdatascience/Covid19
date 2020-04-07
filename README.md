@@ -6,3 +6,8 @@ Since China was the initial infected country, the COVID-19 behavior is different
 
 Inference : 
      Smoothness. Both plots are less smooth than theoretical simulations or the curve from the rest of the world cumulative
+     
+ COVID-19 stats with respect toItaly, Spain, UK and Singapore :
+ 
+ 
+Both Italy and Spain are experiencing the larger increase in COVID-19 positives in Europe. At the same time, UK is a unique case given that it's one of the most important countries in Europe but recently has left the European Union, which has create an effective barrier to human mobility from other countries. The fourth country we will study in this section is Singapore, since it's an asiatic island, is closer to China and its socio-economic conditions is different from the other three countries.    
